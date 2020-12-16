@@ -1,0 +1,1 @@
+This is a school project I did as part of the Software Construction course at UNSW. Here we built a compiler which can take shell scripts as the input and output them in Perl. The main aspect of this project is the use of regular expression matching to identify keywords and syntax within the scripts.
